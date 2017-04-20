@@ -1,8 +1,11 @@
 package snippet;
 
 public class Snippet {
-	publick static void main()
-	{}
+	public static void main()
+	{
+		
+		System.out.println("Hello");
+	}
 	 
 }
 
